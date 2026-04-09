@@ -1,9 +1,5 @@
-Here is a version of the README designed to be friendly, jargon-free, and purely focused on the "how-to" for a total beginner.
-
----
-
 # My Markdown Journal
-Create your own online journal, write in simple markdown, and publish for free without having to code. Works in the browser here on GitHub without needing an IDE.
+Create your own online journal, write in simple markdown, and publish for free without having to code. Works in the browser here on GitHub without needing an code editing program (IDE).
 
 ## Get started writing your own blog
 
@@ -47,8 +43,8 @@ Want to change "My Journal" to your own name?
 
 ---
 
-## A Quick Guide to "Fancy Texting" (Markdown)
-Markdown is just a way to add formatting using symbols you already know:
+## A Quick Guide to Markdown
+Markdown is just a way to add styled text using symbols you already know:
 
 * **# Heading** (One # is a big title, ## is a smaller heading)
 * **Bold text** is written like `**this**`
@@ -56,24 +52,11 @@ Markdown is just a way to add formatting using symbols you already know:
 * **Lists** start with a dash: `- Item 1`
 * **Links** look like this: `[Click here](https://google.com)`
 
-> **Tip:** Every time you "Commit" a change, your website will automatically update. It usually takes about 30 seconds to "bake" the changes into the live site. Just refresh your browser to see the results!
+## Version control 
+Every time you "Commit" a change, your website will automatically update in about 30 seconds. Just write your post, click the green Commit changes button when you're done. You can think of "Commit" as "Save", and "Publish" as send.
 
----
 
-Write: Type your thoughts below that. When you are done, click the green Commit changes button at the top right. (Think of "Commit" as "Save and Publish").
-
-4. Change your Blog Name
-Want to change "My Journal" to your own name?
-
-Go back to your main page and click on the file named _config.yml.
-
-Click the Pencil icon (edit) on the right.
-
-Change the text after title: and description:.
-
-Click the green Commit changes button.
-
-A Quick Guide to "Fancy Texting" (Markdown)
+## A Quick Guide to "Fancy Texting" (Markdown)
 Markdown is just a way to add formatting using symbols you already know:
 
 # Heading (One # is a big title, ## is a smaller heading)
@@ -88,7 +71,16 @@ Lists start with a dash: - Item 1
 
 Links look like this: [Click here](https://google.com)
 
-Tip: Every time you "Commit" a change, your website will automatically update. It usually takes about 30 seconds to "bake" the changes. Just refresh your browser to see the results!
+## Advanced settings 
+### Change your Blog Name
+Want to change "My Journal" to your own name? 
+1. Go back to your main page and click on the file named _config.yml.
+2. Click the Pencil icon (edit) on the right.
+3. Change the text after title: and description:.
+4. Click the green Commit changes button.
+
+### Update Journal Styles
+There are default styles written in <style> tags in the index.html file in this repo - if you are feeling bold, you can change these however you'd like.
 
 ---
 
