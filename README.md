@@ -1,11 +1,15 @@
 # My Markdown Journal
 Create your own online journal, write in simple markdown, and publish for free without having to code. Works in the browser here on GitHub without needing an code editing program (IDE).
 
+---
+
 ## Get started writing your own blog
 
-You don't need to be a "tech person" to use this. If you can send an email or write a text message, you can do this. Just follow these four steps:
+You don't need to be a "tech person" to use this site template. If you can send an email or write a text message, you can do this. Just follow these four steps:
 
 ### 1. Make this yours (The "Fork")
+Sign up for a free Github account if you haven't already.
+
 At the very top right of this page, look for a button that says **Fork**. 
 * Click it, then click **Create Fork**. 
 * This makes a personal copy of this entire project and puts it in your own GitHub account. It’s now your site!
@@ -55,21 +59,7 @@ Markdown is just a way to add styled text using symbols you already know:
 ## Version control 
 Every time you "Commit" a change, your website will automatically update in about 30 seconds. Just write your post, click the green Commit changes button when you're done. You can think of "Commit" as "Save", and "Publish" as send.
 
-
-## A Quick Guide to "Fancy Texting" (Markdown)
-Markdown is just a way to add formatting using symbols you already know:
-
-# Heading (One # is a big title, ## is a smaller heading)
-
-[Markdown Cheat Sheet:] (https://www.markdownguide.org/cheat-sheet/) 
-
-Bold text is written like **this**
-
-Italic text is written like *this*
-
-Lists start with a dash: - Item 1
-
-Links look like this: [Click here](https://google.com)
+---
 
 ## Advanced settings 
 ### Change your Blog Name
