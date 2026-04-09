@@ -1,5 +1,5 @@
-# My Markdown Journal
-Create your own online journal, write in simple markdown, and publish for free without having to code. Works in the browser here on GitHub without needing an code editing program (IDE).
+# My Markdown blog
+Create your own online blog, write in simple markdown, and publish for free without having to code. Works in the browser here on GitHub without needing an code editing program (IDE).
 
 ---
 
@@ -20,7 +20,7 @@ Now you need to tell GitHub to turn your code into a live website.
 2. On the left sidebar, click **Pages**.
 3. Under **Branch**, click the button that says "None" and change it to **main**.
 4. Click **Save**.
-5. Give it about 60 seconds. At the top of that page, you’ll see a link like `https://yourname.github.io/my-journal/`. **That is your new website!**
+5. Give it about 60 seconds. At the top of that page, you’ll see a link like `https://yourname.github.io/my-blog/`. **That is your new website!**
 
 ---
 
@@ -39,7 +39,7 @@ To write a new entry, you don't need a special program. You can do it right here
 6. **Write:** Type your thoughts below that. When you are done, click the green **Commit changes** button at the top right. (Think of "Commit" as "Save and Publish").
 
 ### 4. Change your Blog Name
-Want to change "My Journal" to your own name?
+Want to change "My blog" to your own name?
 1. Go back to your main page and click on the file named **_config.yml**.
 2. Click the **Pencil icon** (edit) on the right.
 3. Change the text after `title:` and `description:`.
@@ -63,13 +63,13 @@ Every time you "Commit" a change, your website will automatically update in abou
 
 ## Advanced settings 
 ### Change your Blog Name
-Want to change "My Journal" to your own name? 
+Want to change "My blog" to your own name? 
 1. Go back to your main page and click on the file named _config.yml.
 2. Click the Pencil icon (edit) on the right.
 3. Change the text after title: and description:.
 4. Click the green Commit changes button.
 
-### Update Journal Styles
+### Update blog Styles
 There are default styles written in <style> tags in the index.html file in this repo - if you are feeling bold, you can change these however you'd like.
 
 ---
