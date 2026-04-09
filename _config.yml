@@ -1,4 +1,5 @@
 title: My Blog
+author: Author name
 description: "A simple, one-page scrolling blog"
 # You can add a theme here if you want, but we will handle 
 # the styling in the index.html for maximum control.
