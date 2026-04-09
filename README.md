@@ -78,6 +78,8 @@ Markdown is just a way to add formatting using symbols you already know:
 
 # Heading (One # is a big title, ## is a smaller heading)
 
+[Markdown Cheat Sheet:] (https://www.markdownguide.org/cheat-sheet/) 
+
 Bold text is written like **this**
 
 Italic text is written like *this*
@@ -88,5 +90,6 @@ Links look like this: [Click here](https://google.com)
 
 Tip: Every time you "Commit" a change, your website will automatically update. It usually takes about 30 seconds to "bake" the changes. Just refresh your browser to see the results!
 
-Credits
+---
+
 This template was created by (Mark Ohanesian)[http://github.com/markohanesian]. Feel free to use and share!
